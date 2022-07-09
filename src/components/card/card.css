@@ -1,0 +1,11 @@
+.btn1 {
+  width: 3vw;
+  background-color: blueviolet;
+  border-radius: 5px;
+}
+.btn2 {
+  width: 3vw;
+  margin-left: 1rem;
+  background-color: rgb(247, 74, 103);
+  border-radius: 5px;
+}
